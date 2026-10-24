@@ -1,0 +1,2 @@
+# Forgesight-Manufacturing-Machine-Monitoring-and-Risk-Analysis-System
+ForgeSight is an AI-powered predictive maintenance and industrial machine monitoring system built using Python, Streamlit, and Machine Learning. It monitors CNC machine health, analyzes sensor data, visualizes performance trends, and predicts equipment failures using a Random Forest model to enable proactive maintenance and minimize downtime.
