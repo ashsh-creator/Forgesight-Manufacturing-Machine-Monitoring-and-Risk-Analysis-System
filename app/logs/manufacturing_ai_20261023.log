@@ -1,0 +1,21 @@
+2026-10-23 00:26:00 - client.swe_client - INFO - __init__:27 - SuperwiseAI client initialized with configuration
+2026-10-23 00:26:00 - utils.predictor - INFO - __init__:24 - MaintenancePredictor initialized with configuration thresholds
+2026-10-23 00:26:00 - utils.data_loader - INFO - __init__:25 - DataLoader initialized with data directory: synthetic-data
+2026-10-23 00:26:00 - services.machines_service - INFO - __init__:40 - MachinesService initialized successfully
+2026-10-23 00:26:00 - utils.data_loader - INFO - __init__:25 - DataLoader initialized with data directory: synthetic-data
+2026-10-23 00:26:00 - utils.data_loader - INFO - __init__:25 - DataLoader initialized with data directory: synthetic-data
+2026-10-23 00:26:00 - __main__ - INFO - main:35 - ForgeSight application started
+2026-10-23 00:26:01 - __main__ - INFO - main:64 - Routing to page: dashboard
+2026-10-23 00:26:01 - front_end.dashboard - INFO - show_dashboard_page:146 - Dashboard page started
+2026-10-23 00:26:01 - services.machines_service - INFO - get_machines:96 - Machines service method accessed
+2026-10-23 00:26:01 - services.machines_service - ERROR - get_machines:170 - Failed to get machines: [Errno 2] No such file or directory: 'synthetic-data\\synthetic_sensor_data.csv'
+2026-10-23 00:26:01 - front_end.dashboard - ERROR - get_service_data:45 - Service error in get_machines: Failed to get machines: [Errno 2] No such file or directory: 'synthetic-data\\synthetic_sensor_data.csv'
+2026-10-23 00:26:07 - __main__ - INFO - main:35 - ForgeSight application started
+2026-10-23 00:26:07 - __main__ - INFO - main:64 - Routing to page: dashboard
+2026-10-23 00:26:07 - front_end.dashboard - INFO - show_dashboard_page:146 - Dashboard page started
+2026-10-23 00:26:07 - __main__ - INFO - main:35 - ForgeSight application started
+2026-10-23 00:26:07 - __main__ - INFO - main:64 - Routing to page: dashboard
+2026-10-23 00:26:07 - front_end.dashboard - INFO - show_dashboard_page:146 - Dashboard page started
+2026-10-23 00:26:07 - services.machines_service - INFO - get_machines:96 - Machines service method accessed
+2026-10-23 00:26:07 - services.machines_service - ERROR - get_machines:170 - Failed to get machines: [Errno 2] No such file or directory: 'synthetic-data\\synthetic_sensor_data.csv'
+2026-10-23 00:26:07 - front_end.dashboard - ERROR - get_service_data:45 - Service error in get_machines: Failed to get machines: [Errno 2] No such file or directory: 'synthetic-data\\synthetic_sensor_data.csv'
